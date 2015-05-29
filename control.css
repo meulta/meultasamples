@@ -1,0 +1,15 @@
+.deviceinfo-container {
+	font-family: "Verdana", "Comic Sans MS";
+}
+
+.deviceinfo-container h2 {
+	font-weight: normal;
+}
+
+.deviceinfo-container ul li {
+	font-weight: bold;
+}
+
+.deviceinfo-container ul span {
+	font-weight: normal;
+}

@@ -1,0 +1,15 @@
+{
+  "description": "Sample for article",
+  "url": "",
+  "readme": "",
+  "License": "none",
+  "dependencies": {},
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "event-stream": "^3.3.2",
+    "gulp": "^3.9.0",
+    "gulp-jslint": "^0.2.2",
+    "gulp-util": "^3.0.7",
+    "jslint": "^0.9.5"
+  }
+}

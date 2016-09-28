@@ -72,7 +72,7 @@ bot.dialog('/getPokemonType', [
     },
     function (session, results) {
         session.conversationData.currentPokemon = results.response;
-        var pokemonType = "I don't know...";
+        var pokemonType = getPokemonType(results.response);
         
         session.send("Ok. I think it is...");
         session.send(pokemonType);
